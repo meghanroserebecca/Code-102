@@ -18,3 +18,5 @@
   () parentheses / parens
   - hyphen
   _ underscore ""
+"Eloquent Javascript" google search
+the console is a 'repl' - read, evaluate, print, loop
