@@ -42,3 +42,5 @@ Classes can be made as functions that are capitalized, basically
      this.example1 = example1      --------------->"this" refers to the Dog object we are creating; makes generic properties for Dog
   }
 ---------->  Dog is a class
+
+A function on a class object we call a "method"
